@@ -1,0 +1,9 @@
+export const NEWS_LOADING = "NEWS_LOADING";
+export const FETCH_NEWS = "FETCH_NEWS";
+export const NEWS_FAILED = "NEWS_FAILED";
+
+export const SOURCES_LOADING = "SOURCES_LOADING";
+export const FETCH_SOURCES = "FETCH_SOURCES";
+export const SOURCES_FAILED = "SOURCES_FAILED";
+
+export const ADD_BOOKMARK = "ADD_BOOKMARK";

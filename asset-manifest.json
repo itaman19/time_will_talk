@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/itaman19/time_will_talk/static/css/main.85129966.chunk.css",
+    "main.js": "/itaman19/time_will_talk/static/js/main.580f8eed.chunk.js",
+    "main.js.map": "/itaman19/time_will_talk/static/js/main.580f8eed.chunk.js.map",
+    "runtime-main.js": "/itaman19/time_will_talk/static/js/runtime-main.dc9f856b.js",
+    "runtime-main.js.map": "/itaman19/time_will_talk/static/js/runtime-main.dc9f856b.js.map",
+    "static/css/2.a5497ee8.chunk.css": "/itaman19/time_will_talk/static/css/2.a5497ee8.chunk.css",
+    "static/js/2.c6bd638e.chunk.js": "/itaman19/time_will_talk/static/js/2.c6bd638e.chunk.js",
+    "static/js/2.c6bd638e.chunk.js.map": "/itaman19/time_will_talk/static/js/2.c6bd638e.chunk.js.map",
+    "static/js/3.798e737c.chunk.js": "/itaman19/time_will_talk/static/js/3.798e737c.chunk.js",
+    "static/js/3.798e737c.chunk.js.map": "/itaman19/time_will_talk/static/js/3.798e737c.chunk.js.map",
+    "index.html": "/itaman19/time_will_talk/index.html",
+    "static/css/2.a5497ee8.chunk.css.map": "/itaman19/time_will_talk/static/css/2.a5497ee8.chunk.css.map",
+    "static/css/main.85129966.chunk.css.map": "/itaman19/time_will_talk/static/css/main.85129966.chunk.css.map",
+    "static/js/2.c6bd638e.chunk.js.LICENSE.txt": "/itaman19/time_will_talk/static/js/2.c6bd638e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc9f856b.js",
+    "static/css/2.a5497ee8.chunk.css",
+    "static/js/2.c6bd638e.chunk.js",
+    "static/css/main.85129966.chunk.css",
+    "static/js/main.580f8eed.chunk.js"
+  ]
+}
